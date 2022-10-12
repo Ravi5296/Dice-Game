@@ -1,0 +1,23 @@
+body{
+    background-color: #393e46;
+    text-align: center;
+}
+
+.heading{
+    font-size: 5rem;
+}
+
+p{
+    margin: 2% 8%;
+    font-size: 3rem;
+}
+
+.pa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    margin: 2%;
+}
